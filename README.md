@@ -21,6 +21,10 @@ This project uses the **Food.com Recipes and Reviews** dataset from Kaggle:
 [Food.com Recipes and Reviews – Kaggle Dataset](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews)  
 Author: Irkaal | Source: Kaggle
 The dataset in this project was not collected by me. Used solely for educational non-commercial purposes 
+Due to GitHub’s file size limits, you will need to manually download the dataset:
+
+ **Download CSV**: [Google Drive Link](https://drive.google.com/file/d/1O3fiCI1sGaC7CkO_j9nt-BE-ZG2RTkWj/view?usp=drive_link)
+ Place in folder titled: data/recipes.csv
 
 ## Running the App
 1. Clone this repo:
