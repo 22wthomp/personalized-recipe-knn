@@ -20,7 +20,7 @@ Built with Dash and Scikit-learn
 This project uses the **Food.com Recipes and Reviews** dataset from Kaggle:
 [Food.com Recipes and Reviews – Kaggle Dataset](https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews)  
 Author: Irkaal | Source: Kaggle
-The dataset in this project was not collected by me. Used soley for educational non-commercial purposes 
+The dataset in this project was not collected by me. Used solely for educational non-commercial purposes 
 
 ## Running the App
 1. Clone this repo:
